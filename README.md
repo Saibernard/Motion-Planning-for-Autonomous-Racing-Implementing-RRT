@@ -42,6 +42,10 @@ Upon RRT-path discovery, the trajectory was executed using the Pure Pursuit algo
 
 All the trees, trajectories, and algorithm performances were visualized in RVIZ. Successful GitHub code pushes and video demonstrations showcased the project's success.
 
+## Simulation of the implementation of algorithm in autonomous car using Rviz
+
+https://youtu.be/iQyuCCC_1Wo
+
 ## Conclusion
 
 The project resulted in the development of a comprehensive motion planning algorithm capable of efficiently steering an autonomous car on a racing track.
