@@ -1,4 +1,4 @@
-# f1tenth-motion-planning-rrt
+# Motion Planning for Autonomous Racing: Implementing RRT
 This repository implements Motion Planning on F1 tenth car, focusing on Rapidly-exploring Random Trees (RRT) and their enhanced version, RRT*.
 
 
