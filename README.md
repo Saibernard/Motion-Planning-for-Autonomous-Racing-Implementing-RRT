@@ -34,6 +34,9 @@ A critical component was designing the occupancy grid to facilitate efficient co
 
 The simulator was instrumental in validating the code's efficacy before transitioning to the car. The application on the car was done with incremental speed variations to ensure safety and effective algorithm evaluation.
 
+![image](https://github.com/Saibernard/Motion-Planning-for-Autonomous-Racing-Implementing-RRT/assets/112599512/6532b0c1-fbe6-483e-acd1-ad7e0744cd4b)
+
+
 ### Trajectory Execution:
 
 Upon RRT-path discovery, the trajectory was executed using the Pure Pursuit algorithm. The challenge lay in ensuring the car's smooth steering while maintaining a proactive approach to obstacle-avoidance.
